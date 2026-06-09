@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About</title>
+</head>
+<body>
+
+<h1>Technologies Learned</h1>
+
+<ul>
+    <li>Cloud Computing</li>
+    <li>GitHub</li>
+    <li>GitHub Actions</li>
+    <li>Google Cloud Storage</li>
+</ul>
+
+</body>
+</html>
